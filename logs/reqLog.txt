@@ -1,2 +1,2 @@
-20240719		18:36:45	28c9e110-e766-440a-a83b-b6eb608b72cf	/favicon.ico	GET
-20240719		18:36:50	20d3775d-27ba-4308-b233-1281b3d5a7eb	/img/img1.jpg	GET
+20240720		10:55:46	7ef8c583-4e51-47c5-b487-7f47deee6171	GET	undefined	/
+20240720		10:55:46	729fb74f-4b1d-4a70-9b90-8399e8b6771b	GET	undefined	/css/style.css

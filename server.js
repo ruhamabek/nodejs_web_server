@@ -1,7 +1,18 @@
 const express = require('express');
 const app = express();
 const path = require('path');
+const logEvents = require('./middleware/logEvents');
 const PORT = process.env.PORT||3500;
+
+app.use((req, res, next) =>{
+    logEvents(`${req.method}\t${req.headers.origin}\t${req.url}` , 'reqLog.txt')
+    console.log(`${req.method} ${req.path}`);
+    next();
+});
+
+app.use(express.urlencoded({extended : false}));
+app.use(express.json());
+app.use(express.static(path.join(__dirname , './public')));
 
 app.get('^/$|/index(.html)?' , (req , res)=>{
     //res.sendFile('./views/index.html' , {root : __dirname});
