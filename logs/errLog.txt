@@ -1,6 +1,1 @@
-20240720		15:40:44	220960dc-0b76-4e4c-b66e-621f6a9d0b48	undefined : undefined
-20240720		15:41:26	6b68fa19-a4f2-45c7-9a53-54a2ef4aa2a6	undefined : undefined
-20240720		15:41:43	a94bcd56-1fb5-4c68-9bf4-4bed95b7f43a	undefined : undefined
-20240720		15:46:06	7a9ffc59-2294-43f0-bcf0-9a373708687b	undefined : undefined
-20240720		15:46:15	1a3775d5-0b36-405b-9608-97a22b7f92a2	undefined : undefined
-20240720		15:48:13	8aa70b79-24d3-4b73-ab2d-9ce12c9356b1	undefined : undefined
+20240720	16:20:57	e41a1064-f71c-43d2-a04c-7b592f0399e2	Error: Not allowed by CORS
