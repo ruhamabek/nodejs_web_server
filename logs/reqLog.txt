@@ -149,3 +149,15 @@
 20240724	15:18:26	fbf704c2-5411-4ebb-b3db-fd8349ad3179	DELETE	undefined	/employees
 20240724	15:18:52	97e7bd7d-7649-4b9c-a1f0-a08e42c33de7	DELETE	undefined	/employees
 20240724	15:21:13	16783b54-f849-4495-b204-532540ddc237	DELETE	undefined	/employees
+20240725	09:36:42	95e51409-0b92-4a55-ac9d-e0ac473aab1c	GET	undefined	/index
+20240725	09:36:43	34a94d45-5e49-48fd-acc9-cf4622bce57b	GET	undefined	/css/style.css
+20240725	09:36:43	2d8fe027-9cd2-48a8-b90a-e68ddc3f687a	GET	undefined	/favicon.ico
+20240725	09:37:15	49ca8c5a-a967-4861-b07a-bb4e14d923e1	GET	undefined	/employees/1
+20240725	09:46:13	b9403a43-73b6-4aed-99a2-f1b89ef6e12f	GET	undefined	/register
+20240725	09:47:36	1b4b4654-08f3-43d3-83b6-dc2d04771129	POST	undefined	/register
+20240725	09:49:22	a52e8d10-660f-4974-a98c-7ce2bac5bea5	POST	undefined	/register
+20240725	09:56:08	6df2f48d-e19b-4fdf-9d64-dec0bfb5b1d1	POST	undefined	/register
+20240725	10:49:24	8ce16da6-62c2-4f13-bdee-98dc44d226df	POST	undefined	/register
+20240725	11:08:09	09dda315-fc86-4be9-afa8-434584f65cbd	POST	undefined	/auth
+20240725	11:08:20	60d3a04f-f488-4c8a-91cc-b422b39a8629	POST	undefined	/auth
+20240725	11:08:34	0778e00c-b3a3-4403-8ec0-046f25db2f22	POST	undefined	/auth
