@@ -1,6 +1,0 @@
-20240720	16:20:57	e41a1064-f71c-43d2-a04c-7b592f0399e2	Error: Not allowed by CORS
-20240726	13:31:58	300b2c45-b1e2-4325-a248-4db265073664	TypeError: Cannot read properties of undefined (reading 'authorization')
-20240726	13:57:39	8806fbd4-ee34-41f8-8ee5-dc891f5cd04b	TypeError: Cannot read properties of undefined (reading 'authorization')
-20240726	13:58:17	ffa20a44-ce54-4a3d-8c3f-2878cf0b912e	TypeError: Cannot read properties of undefined (reading 'authorization')
-20240726	13:58:28	d14136ef-e8f5-419a-82b3-eedd9e06ad0f	TypeError: Cannot read properties of undefined (reading 'authorization')
-20240726	14:03:32	51b6ab6f-df76-4f5f-82d6-dd1820146c95	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
